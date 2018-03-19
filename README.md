@@ -15,3 +15,7 @@
 6. [Application Summary](https://deeplearning4j.org/use_cases#deep-learning-use-cases)
 7. [Kaggle Competitions](https://www.kaggle.com/c/carvana-image-masking-challenge)
     * Image Masking Challenge
+8. [Github](https://github.com/NirantK/awesome-project-ideas)
+    * Satellite Imagery Processing for Automated Tagging
+
+
