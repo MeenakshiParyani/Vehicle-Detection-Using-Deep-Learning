@@ -13,4 +13,5 @@
     * Image Recognition (Face Detection / Face Recognition/ Image Caption Generation/ Image Search)
     * NLP
 6. [Application Summary](https://deeplearning4j.org/use_cases#deep-learning-use-cases)
-7. [Kaggle](https://www.kaggle.com/c/carvana-image-masking-challenge)
+7. [Kaggle Competitions](https://www.kaggle.com/c/carvana-image-masking-challenge)
+    * Image Masking Challenge
