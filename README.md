@@ -1,4 +1,4 @@
-# Deep-Learning-Project
+# Deep-Learning-Project Ideas
 
 1. [Human Like Chatbot](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
 2. [ Deep Learning Applications](https://medium.com/@vratulmittal/top-15-deep-learning-applications-that-will-rule-the-world-in-2018-and-beyond-7c6130c43b01) - 
@@ -18,4 +18,6 @@
 8. [Github](https://github.com/NirantK/awesome-project-ideas)
     * Satellite Imagery Processing for Automated Tagging
 
-
+# Short listed Ideas
+1. Image text translation
+2. Signature Forgery Detection
