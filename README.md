@@ -18,6 +18,6 @@
 8. [Github](https://github.com/NirantK/awesome-project-ideas)
     * Satellite Imagery Processing for Automated Tagging
 
-# Short listed Ideas
+## Short listed Ideas
 1. Image text translation
 2. Signature Forgery Detection
